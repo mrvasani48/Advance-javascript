@@ -1,0 +1,2 @@
+/*
+refers all.js*/
